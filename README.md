@@ -25,36 +25,28 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=justysssss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 # <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Readme-Contacts.svg"/>
 <a href="https://www.behance.net/sourishbose">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" width="100" height="auto" />
+    
+  <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" width="100" height="auto" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://instagram.com/sourishbose10">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="110" height="auto" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/sourishbose10">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100" height="auto" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.twitch.tv/itzjustysss">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" width="90" height="auto" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://x.com/itzjustysss">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" width="70" height="33" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.youtube.com/@itzjustysss">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="auto" />
 </a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://codepen.io/Sourish-Bose">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" width="110" height="30" />
 </a>
