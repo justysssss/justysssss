@@ -1,5 +1,5 @@
 <h1>
-  Hi there
+  Hi, I'm Sourish
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -8,8 +8,13 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I’m currently working on my coding skills.<br>- 🌱 I’m currently learning Unity and Ruby programming.<br>- 👯 I’m looking to collaborate on React and Next Js Projects.<br>- 💬 Ask me about games<br>- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I’ve played over 300 different video games in my lifetime!
-
+🔭 I’m currently working on my coding skills.<br>
+🌱 I’m currently learning Unity and Ruby programming. <br>
+👯 I’m looking to collaborate on React and Next Js Projects.<br>
+💬 Ask me about games.<br>
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I’ve played over 300 different video games in my lifetime!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sourishbose) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.linkedin.com/in/sourishbose10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sourishbose10) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/itzjustysss) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/itzjustysss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@itzjustysss) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sourish-Bose) 
