@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://github.com/justysssss/justysssss/blob/main/Assets/setup.png" />
 </div>
