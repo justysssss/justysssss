@@ -1,15 +1,13 @@
-<h1>
-  Hi, I'm Sourish
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVkZWd6bmp2bDkwcmpjOWl5bmExbXoyaXlzOHh5OXluNDNjMXVxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
-# 💫 About Me:
-🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and from India.<br>
-🌱 I’m currently learning Unity and Ruby programming. <br>
+
+#  Hi, I'm Sourish  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Video Editor from India.<br>
+👨🏽‍💻 I’m currently learning Unity and Ruby programming. <br>
 👯 I’m looking to collaborate on React and Next Js Projects.<br>
 💬 In my free time, I solve problems on LeetCode and do some video editing<br>
 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
