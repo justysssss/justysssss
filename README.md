@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish%20banner%20nn.png" />
+  <img src="https://github.com/justysssss/justysssss/blob/main/Assets/setup.png" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=justysssss&icon=0&color=0)](https://visitcount.itsvg.in)
