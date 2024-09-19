@@ -12,7 +12,7 @@
 🌱 I’m currently learning Unity and Ruby programming. <br>
 👯 I’m looking to collaborate on React and Next Js Projects.<br>
 💬 In my free time, I solve problems on LeetCode and do some video editing<br>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
+📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I’ve played over 300 different video games in my lifetime!
 
