@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVkZWd6bmp2bDkwcmpjOWl5bmExbXoyaXlzOHh5OXluNDNjMXVxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" height="200" width="auto"/>
+  <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish%20banner%20nn.png" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=justysssss&icon=0&color=0)](https://visitcount.itsvg.in)
