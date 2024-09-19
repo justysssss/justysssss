@@ -4,14 +4,14 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVkZWd6bmp2bDkwcmpjOWl5bmExbXoyaXlzOHh5OXluNDNjMXVxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on my coding skills.<br>
+🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and from India.<br>
 🌱 I’m currently learning Unity and Ruby programming. <br>
 👯 I’m looking to collaborate on React and Next Js Projects.<br>
-💬 Ask me about games.<br>
+💬 In my free time, I solve problems on LeetCode and do some video editing<br>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I’ve played over 300 different video games in my lifetime!
