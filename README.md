@@ -8,14 +8,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=justysssss&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
-#  Hi, I'm Sourish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-🔭 I am a **Full Stack Developer** and **Creative Editor** from India 🇮🇳 <br>
-👨🏽‍💻 Currently a **4th year CSE Student** at B.P. [cite_start]Poddar Institute. <br>
-[cite_start]🏆 **1st Runner Up at Techstorm 2025** for building Healthsync (AI Healthcare). <br>
-[cite_start]👯 I'm building **AI-integrated applications** using **Next.js** and **TypeScript**. <br>
-[cite_start]💬 When I'm not coding, I'm editing videos for my **YouTube channel** or solving LeetCode. <br>
+#  Hi, I'm Sourish  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Video Editor from India <img src= "https://github.com/justysssss/justysssss/blob/main/Assets/India-s.gif" width="auto" height="12" style="display: block; margin-top: 20px;"> <br>
+👨🏽‍💻 I’m currently a 4th year CSE Student. <br>
+🏆 **1st Runner Up at Techstorm 2025** for building Healthsync (AI Healthcare). <br>
+👯 I’m looking to collaborate on Agentic AI, LLM Integrations, and Scalable Machine Learning Pipelines.<br>
+💬 In my free time, I solve problems on LeetCode and do some video editing<br>
 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
+
 
 # <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Skills.svg" align="center"/> 
 
