@@ -22,8 +22,8 @@
 
 # <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Readme-Contacts.svg"/>
 <p align="left">
-<a href="https://www.behance.net/sourishbose"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35" /></a>
-<a href="https://instagram.com/sourishbose10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" /></a>
+<a href="https://www.behance.net/sourishbose><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35" /></a>
+<a href="https://www.instagram.com/iamjustysss/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" /></a>
 <a href="https://linkedin.com/in/sourishbose10"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 <a href="https://x.com/itzjustysss"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="35" /></a>
 <a href="https://www.youtube.com/@itzjustysss"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35" /></a>
