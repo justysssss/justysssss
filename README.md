@@ -9,86 +9,86 @@
 
 </div>
 
-# Hi, I'm Sourish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Sourish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
-🔭 I’m a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, **AI builder**, and **Video Editor** from India 🇮🇳 <br>
-👨🏽‍💻 Currently a 4th year CSE student building products that mix clean UX, agents, AI, and useful automation. <br>
-🦦 Building **[OtterSpeak](https://otterspeak.com)** — making communication feel smarter, faster, and more human. <br>
-🌐 Portfolio: **[sourishbose.com](https://sourishbose.com)** <br>
-🏆 **1st Runner Up at Techstorm 2025** for building **Healthsync**, an AI Healthcare product. <br>
-👯 Open to collaborating on **Agentic AI**, **LLM integrations**, **full-stack products**, and **scalable ML pipelines**. <br>
-💬 In my free time, I solve LeetCode, ship side projects, edit videos, and overthink small UI details. <br>
-📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)<br>
+🔭 **Software Developer @ Accenture** working around SAP Full Stack, cloud apps, and enterprise workflows. <br>
+🦦 Building **[OtterSpeak](https://otterspeak.com)** — speech assessment, Wav2Vec2, Supabase, gamified learning stuff. <br>
+🧠 I like shipping **full-stack products**, **AI tools**, **RAG systems**, and tiny UX details that feel clean. <br>
+🏆 **1st Runner Up at Techstorm 2025** for **Healthsync**, an AI healthcare platform. <br>
+🎬 Also a video editor, Valorant enjoyer, and occasional LeetCode victim. <br>
+🌐 Portfolio: **[sourishbose.com](https://www.sourishbose.com)**
 
 ---
 
-## 🚀 Currently Building
+## ⚡ Tech I Use
 
-- 🦦 **OtterSpeak** — AI-powered communication/productivity stuff I’m actively cooking.
-- 🧠 **Agentic AI workflows** — LLM tools, automations, and integrations that actually save time.
-- ⚡ **Full-stack products** — fast interfaces, useful backends, clean shipping.
-- 🎬 **Creative systems** — editing, visual design, and content workflows with a developer brain.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Skills.svg" align="center"/>
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BFF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
-### 💻 Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-24292e?style=for-the-badge&logo=github&logoColor=white)
-
-### 🤖 Cloud & AI Tools
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎨 Design & Creative
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 🧩 Featured Projects
-
-| Project | What it is |
-|---|---|
-| 🦦 **[OtterSpeak](https://otterspeak.com)** | AI/productivity communication project I’m currently building. |
-| 🏥 **Healthsync** | AI healthcare product built for Techstorm 2025. |
-| ✨ **GistFlow** | AI sidebar for Chrome that understands the page you’re on. |
-| ⚖️ **Vakil.ai** | Privacy-first AI legal counsel for India. |
-| 🧑🏽‍💻 **Code Studio** | Write and share code snippets on the go. |
-| 🧬 **Enhanced NIDS MetaLearning** | Network intrusion detection using hybrid meta-learning. |
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Readme-Contacts.svg"/>
+## 🧩 Featured Stuff
 
-<p align="left">
-<a href="https://sourishbose.com"><img src="https://img.shields.io/badge/Portfolio-sourishbose.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" height="35" /></a>
-<a href="https://www.behance.net/sourishbose"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35" /></a>
-<a href="https://www.instagram.com/iamjustysss/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" /></a>
-<a href="https://linkedin.com/in/sourishbose10"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-<a href="https://x.com/itzjustysss"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="35" /></a>
-<a href="https://www.youtube.com/@itzjustysss"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35" /></a>
-</p>
+| Project | Stack | What it does |
+|---|---|---|
+| 🦦 **OtterSpeak** | Vue 3, TypeScript, Supabase, Wav2Vec2 | Speech assessment with phoneme-level scoring, caching, and gamified progress. |
+| ✨ **GistFlow** | JavaScript, Chrome Extension, AI | On-page AI sidebar for summaries, replies, and web context. |
+| ⚖️ **Vakil.ai** | Next.js, FastAPI, RAG, Groq, ChromaDB | Privacy-first legal assistant for Indian contracts. |
+| 🧬 **Enhanced NIDS** | Python, TensorFlow, Scikit-learn | Hybrid ML/DL intrusion detection with meta-learning. |
+| 🏥 **Healthsync** | AI Healthcare | Prescription storage and medication reminders. |
 
 ---
 
-# <img src="https://github.com/justysssss/justysssss/blob/main/Assets/icons8-graph.gif" width="auto" height="30"/> GitHub Stats:
+## 📫 Find Me
+
+<a href="https://www.sourishbose.com"><img src="https://img.shields.io/badge/Portfolio-sourishbose.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" height="32" /></a>
+<a href="https://linkedin.com/in/sourishbose10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
+<a href="https://www.instagram.com/iamjustysss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="32" /></a>
+<a href="https://x.com/itzjustysss"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white" height="32" /></a>
+<a href="https://www.youtube.com/@itzjustysss"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" height="32" /></a>
+
+---
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=justysssss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=justysssss&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justysssss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+![](https://github-readme-activity-graph.vercel.app/graph?username=justysssss&theme=github-dark&hide_border=true)
 
-## 🟩 Activity Snapshot
-
-<img src="https://github.com/justysssss/justysssss/blob/main/Assets/github-activity-2026.png" alt="GitHub activity snapshot showing 9,344 contributions in the last year" />
+<!-- Exact static activity screenshot:
+1. Save your contribution screenshot as Assets/github-activity-2026.png
+2. Commit and push it to your justysssss/justysssss repo
+3. Uncomment the line below
+<img src="https://github.com/justysssss/justysssss/blob/main/Assets/github-activity-2026.png?raw=true" alt="GitHub activity snapshot" />
+-->
 
 ---
 
 ## 💰 Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justysss)
-
-# <img src="https://github.com/justysssss/justysssss/blob/main/Assets/Sourish-Projects.svg" alt="Projects"/>
