@@ -50,18 +50,6 @@
 
 ---
 
-## 🧩 Featured Stuff
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🦦 **OtterSpeak** | Vue 3, TypeScript, Supabase, Wav2Vec2 | Speech assessment with phoneme-level scoring, caching, and gamified progress. |
-| ✨ **GistFlow** | JavaScript, Chrome Extension, AI | On-page AI sidebar for summaries, replies, and web context. |
-| ⚖️ **Vakil.ai** | Next.js, FastAPI, RAG, Groq, ChromaDB | Privacy-first legal assistant for Indian contracts. |
-| 🧬 **Enhanced NIDS** | Python, TensorFlow, Scikit-learn | Hybrid ML/DL intrusion detection with meta-learning. |
-| 🏥 **Healthsync** | AI Healthcare | Prescription storage and medication reminders. |
-
----
-
 ## 📫 Find Me
 
 <a href="https://www.sourishbose.com"><img src="https://img.shields.io/badge/Portfolio-sourishbose.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" height="32" /></a>
