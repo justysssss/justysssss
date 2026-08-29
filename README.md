@@ -72,23 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=justysssss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=justysssss&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justysssss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=justysssss&theme=github-dark&hide_border=true)
-
-<!-- Exact static activity screenshot:
-1. Save your contribution screenshot as Assets/github-activity-2026.png
-2. Commit and push it to your justysssss/justysssss repo
-3. Uncomment the line below
-<img src="https://github.com/justysssss/justysssss/blob/main/Assets/github-activity-2026.png?raw=true" alt="GitHub activity snapshot" />
--->
-
----
-
 ## 💰 Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justysss)
