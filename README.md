@@ -46,28 +46,6 @@
 
 ---
 
-## 🧩 Featured Work
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🦦 **OtterSpeak** | Vue 3, TypeScript, Supabase, Wav2Vec2 | Speech assessment with phoneme scoring, fast rendering, caching, and gamified progress. |
-| ✨ **GistFlow** | JavaScript, Chrome Extension, AI | On-page AI sidebar for summaries, replies, and web context. |
-| ⚖️ **Vakil.ai** | Next.js, FastAPI, RAG, Groq, ChromaDB | Privacy-first legal assistant for Indian contracts. |
-| 🧬 **Enhanced NIDS** | Python, TensorFlow, Scikit-learn | Hybrid ML/DL intrusion detection with meta-learning. |
-| 🏥 **Healthsync** | AI Healthcare | Prescription storage and medication reminder platform. |
-
----
-
-## 📫 Find Me
-
-<a href="https://www.sourishbose.com"><img src="https://img.shields.io/badge/Portfolio-sourishbose.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sourishbose10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/iamjustysss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/itzjustysss"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.youtube.com/@itzjustysss"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
----
-
 ## 💰 Support Me
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justysss)
