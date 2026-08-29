@@ -6,14 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=justysssss&label=PROFILE%20VIEWS&color=blue&style=flat-square" alt="profile views" />
 </p>
 
-# Hi, I'm Sourish 👋
+# Hi, I'm Sourish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-🔭 **Software Developer @ Accenture** working around SAP Full Stack, cloud apps, and enterprise workflows. <br>
+🔭 I am a **Software Developer @ Accenture** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and **Video Editor** from India 🇮🇳 <br>
 🦦 Building **[OtterSpeak](https://otterspeak.com)** — speech assessment, Wav2Vec2, Supabase, and gamified learning. <br>
 🧠 I like shipping **full-stack products**, **AI tools**, **RAG systems**, and clean UX details. <br>
 🏆 **1st Runner Up at Techstorm 2025** for **Healthsync**, an AI healthcare platform. <br>
-🎬 Video editor, Valorant enjoyer, and occasional LeetCode victim. <br>
-🌐 Portfolio: **[sourishbose.com](https://www.sourishbose.com)**
+👯 I’m looking to collaborate on Agentic AI, LLM Integrations, and Scalable Machine Learning Pipelines.<br>
+💬 In my free time, I edit videos, play Valorant, and try to survive LeetCode.<br>
+🌐 Portfolio: **[sourishbose.com](https://www.sourishbose.com)** <br>
+📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Sourish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourishbose10)
 
 ---
 
